@@ -1,12 +1,12 @@
+# Michael Collins' Family Tree Storymap
+Based on Leaflet Storymaps with Google Sheets
+
+- The map is hosted by GitHub and can be found at https://sashadb.github.io/Michael-Collins-family-tree-storymap/
+- The data for this map is in the google sheet: https://docs.google.com/spreadsheets/d/1dcVRtFgfjGBqItIrECCPhzN7HWvQYsEW6vcriuJjs6M/edit#gid=0
+
 # Leaflet Storymaps with Google Sheets
 Customize your Leaflet story map with linked Google Sheets template and scrolling narrative.
 Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overlays.
-
-![Demo Screenshot](media/screenshot.jpg)
-
-## [Live Demo](https://group3-storymap.github.io/leaflet-storymaps-with-google-sheets/)
-- The map is hosted by GitHub and can be found at http://datavizforall.github.io/leaflet-storymaps-with-google-sheets/index.html
-- Google Sheets template https://docs.google.com/spreadsheets/d/1dcVRtFgfjGBqItIrECCPhzN7HWvQYsEW6vcriuJjs6M/edit#gid=0
 
 ## Create Your Own
 - See step-by-step tutorial in *Data Visualization for All* https://datavizforall.org/leaflet-storymaps-with-google-sheets.html
