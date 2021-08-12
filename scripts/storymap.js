@@ -164,7 +164,7 @@ $(window).on('load', function() {
           allowfullscreen: 'allowfullscreen',
         });
 
-        mediaContainer = $('<div></div', {
+        mediaContainer = $('<div></div>', {
           class: 'img-container'
         }).append(media).after(source);
       }
@@ -188,7 +188,7 @@ $(window).on('load', function() {
           controls: mediaType == 'audio' ? 'controls' : '',
         });
 
-        mediaContainer = $('<div></div', {
+        mediaContainer = $('<div></div>', {
           class: mediaType + '-container'
         }).append(media).after(source);
       }
