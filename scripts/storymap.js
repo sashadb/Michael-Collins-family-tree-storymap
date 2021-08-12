@@ -11,7 +11,8 @@ $(window).on('load', function() {
   });
 
   // First, try reading data from the Google Sheet
-  if (typeof googleDocURL !== 'undefined' && googleDocURL) {
+  //if (typeof googleDocURL !== 'undefined' && googleDocURL) {
+  if (1 !== 1) {
     Tabletop.init({
       key: googleDocURL,
       callback: function(data, tt) {
